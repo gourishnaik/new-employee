@@ -1,0 +1,162 @@
+{
+  "posts": [
+    {
+      "eid": 12546,
+      "name": "jayesh",
+      "mobile": 9658698546,
+      "email": "jayesh@gmail.com",
+      "address": "pune",
+      "salary": 32156,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 1
+    },
+    {
+      "eid": 36565,
+      "name": "max",
+      "mobile": 2565665566,
+      "email": "max@gmail.com",
+      "address": "daman",
+      "salary": 96565,
+      "gender": "male",
+      "position": "java developer",
+      "id": 2
+    },
+    {
+      "eid": 69656,
+      "name": "siya",
+      "mobile": 9656565656,
+      "email": "sia@gmail.com",
+      "address": "delhi",
+      "salary": 65632,
+      "gender": "female",
+      "position": "React developer",
+      "id": 3
+    },
+    {
+      "eid": 45966,
+      "name": "ritesh",
+      "mobile": 6565256565,
+      "email": "ritesh@gmail.com",
+      "address": "jaipur",
+      "salary": 65245,
+      "gender": "male",
+      "position": "React developer",
+      "id": 4
+    },
+    {
+      "eid": 8545,
+      "name": "neha",
+      "mobile": 6363635656,
+      "email": "neha@gmail.com",
+      "address": "thane",
+      "salary": 16325,
+      "gender": "female",
+      "position": "Angular developer",
+      "id": 5
+    },
+    {
+      "eid": 66566,
+      "name": "ram",
+      "mobile": 6565654562,
+      "email": "ram@redifmail.com",
+      "address": "bangaluru",
+      "salary": 99656,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 6
+    },
+    {
+      "eid": 16566,
+      "name": "rajat",
+      "mobile": 4565654562,
+      "email": "rajat@redifmail.com",
+      "address": "bangaluru",
+      "salary": 99656,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 7
+    },
+    {
+      "eid": 19566,
+      "name": "sunil",
+      "mobile": 6565654562,
+      "email": "sunil44@redifmail.com",
+      "address": "panjim",
+      "salary": 19656,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 8
+    },
+    {
+      "eid": 4566,
+      "name": "nilesh",
+      "mobile": 8585865566,
+      "email": "nilesh@gmail.com",
+      "address": "karwar",
+      "salary": 252200,
+      "gender": "male",
+      "position": "React developer",
+      "id": 9
+    },
+    {
+      "eid": 858565,
+      "name": "parashuram",
+      "mobile": 56565565,
+      "email": "dsds@gmail.com",
+      "address": "karwar",
+      "salary": 30000,
+      "gender": "male",
+      "position": "java developer",
+      "id": 10
+    },
+    {
+      "eid": 85566,
+      "name": "akash",
+      "mobile": 9696969654,
+      "email": "akash@gmail.com",
+      "address": "old goa",
+      "salary": 22000,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 11
+    },
+    {
+      "eid": 465696,
+      "name": "naresh",
+      "mobile": 9514236578,
+      "email": "naresh@gmail.com",
+      "address": "asnoti",
+      "salary": 99999,
+      "gender": "male",
+      "position": "Angular developer",
+      "id": 12
+    },
+    {
+      "eid": 232223,
+      "name": "prashant",
+      "mobile": 8585856566,
+      "email": "prashant@gmail.com",
+      "address": "karwar",
+      "salary": 33333,
+      "gender": "male",
+      "position": "React developer",
+      "id": 13
+    },
+    {
+      "eid": 85866,
+      "name": "rajesh",
+      "mobile": 9632587412,
+      "email": "rajesh@gmail.com",
+      "address": "kolgua",
+      "salary": 99656622,
+      "gender": "male",
+      "position": "java developer",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

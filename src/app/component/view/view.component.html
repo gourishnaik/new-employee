@@ -1,0 +1,43 @@
+<h3 style="text-align:center;color:red;font-size: 30px;">Employee Management system view</h3>
+<hr>
+
+<div class="container-fluid"> 
+<table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Eid</th>
+        <th scope="col">Name</th>
+        <th scope="col">position</th>
+        <th scope="col">gender</th>
+        <th scope="col">Email</th>
+        <th scope="col">Address</th>
+        <th scope="col">Mobile</th>
+        <th scope="col">Salary</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of  myemployee">
+        <th >{{user.eid}}</th>
+        <th >{{user.name}}</th>
+        <th >{{user.position}}</th>
+        <th >{{user.gender}}</th>
+        <th >{{user.email}}</th>
+        <th >{{user.address}}</th>
+        <th >{{user.mobile}}</th>
+        <th >{{user.salary}}</th>
+        <td>
+            <i routerLink="/edit/update/{{user.id}}" style="color:blue;"class="fa fa-edit"></i> &nbsp;
+            <i (click)="deleteuser(user)" style="color:red;"class="fa fa-trash"></i>
+
+        </td>
+      </tr>
+     
+     
+    </tbody>
+  </table>
+</div>
+ 
+<div style="text-align:center;">
+<button routerLink="/"  class="btn btn-dark">BACK</button>
+ </div>
